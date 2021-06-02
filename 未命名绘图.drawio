@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T06:58:36.027Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="JdUKGSChzZxotVmLKY20" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T06:59:28.300Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="liK0zvkqQOOiQr-DCcFF" version="14.7.3" type="github">
   <diagram id="49DJHK_sfRtJ8FkK0kUr" name="第 1 页">
     <mxGraphModel dx="1022" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,9 +55,9 @@
         <mxCell id="bWEV2Phgljny12hrbtM5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.543;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bWEV2Phgljny12hrbtM5-18" target="bWEV2Phgljny12hrbtM5-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWEV2Phgljny12hrbtM5-31" value="出列：分布式锁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bWEV2Phgljny12hrbtM5-29">
+        <mxCell id="bWEV2Phgljny12hrbtM5-31" value="出列：分布式锁-多实例只消费一次" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bWEV2Phgljny12hrbtM5-29">
           <mxGeometry x="0.1951" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bWEV2Phgljny12hrbtM5-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
