@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T07:37:08.618Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" version="14.8.6" etag="94k1Qgv71o8mIC3PgiL2" type="github"><diagram id="VkfFLyqZ4GP6FN8Gsy9p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-16T07:58:34.682Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="P9tX22qRXPz6rzg3LGcU" version="14.8.6" type="github">
+  <diagram id="VkfFLyqZ4GP6FN8Gsy9p" name="第 1 页">
+    <mxGraphModel dx="1835" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-12" target="Gd7f1BIweciEpXIwEWnX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-25" value="群雄" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-7">
+          <mxGeometry x="0.0963" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-12" target="Gd7f1BIweciEpXIwEWnX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-24" value="康卓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-11">
+          <mxGeometry x="0.0597" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-1" value="房源详情" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="340.25" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/128/chrome.png" vertex="1" parent="1">
+          <mxGeometry y="344.25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-4" value="sh-keybox" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="279.75" width="71.34" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="287.25" width="25" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-6" target="Gd7f1BIweciEpXIwEWnX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-26" value="长连接，服务器主动轮询检验钥匙栓状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-16">
+          <mxGeometry x="-0.2079" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-6" value="HAProxy" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.proxy_appliance;" vertex="1" parent="1">
+          <mxGeometry x="391" y="300.5" width="46" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-14" value="主动推送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-9" target="Gd7f1BIweciEpXIwEWnX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-9" value="mqtt" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mqtt_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="63" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-12" value="钥匙箱" style="shape=mxgraph.cisco.misc.breakout_box;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="346" width="43" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-13" target="Gd7f1BIweciEpXIwEWnX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-13" value="kzBoxManager" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="71.34" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-19" target="Gd7f1BIweciEpXIwEWnX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-19" value="Kafka" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="809.34" y="476.5" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-23" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="324" width="40" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
