@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T07:58:34.682Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="P9tX22qRXPz6rzg3LGcU" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T08:22:46.914Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="_8CU-WOaUGK1MJ37YKmz" version="14.8.6" type="github">
   <diagram id="VkfFLyqZ4GP6FN8Gsy9p" name="第 1 页">
-    <mxGraphModel dx="1835" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,17 +20,32 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gd7f1BIweciEpXIwEWnX-1" value="房源详情" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="340.25" width="100" height="85" as="geometry" />
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-1" value="门店电脑" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="834" y="109" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.04;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-1" target="Gd7f1BIweciEpXIwEWnX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Gd7f1BIweciEpXIwEWnX-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/128/chrome.png" vertex="1" parent="1">
-          <mxGeometry y="344.25" width="60" height="60" as="geometry" />
+          <mxGeometry x="854" y="113" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gd7f1BIweciEpXIwEWnX-4" value="sh-keybox" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1080" y="279.75" width="71.34" height="87" as="geometry" />
         </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-5" target="Gd7f1BIweciEpXIwEWnX-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-33" value="发送钥匙状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-31">
+          <mxGeometry x="-0.1821" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Gd7f1BIweciEpXIwEWnX-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="287.25" width="25" height="53" as="geometry" />
+          <mxGeometry x="1161" y="296.75" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Gd7f1BIweciEpXIwEWnX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-6" target="Gd7f1BIweciEpXIwEWnX-4">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +81,61 @@
         </mxCell>
         <mxCell id="Gd7f1BIweciEpXIwEWnX-23" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="324" width="40" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-28" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="293.12" width="40" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-29" value="link house&lt;br&gt;房源状态&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="282.75" width="46.13" height="82.37" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-30" target="Gd7f1BIweciEpXIwEWnX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-34" value="更新房源钥匙状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-32">
+          <mxGeometry x="-0.1517" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-30" value="Kafka" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="307.12" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-37" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-9" target="Gd7f1BIweciEpXIwEWnX-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="640" as="sourcePoint" />
+            <mxPoint x="720" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="422" y="630" />
+              <mxPoint x="646" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-39" value="auth http: 用户名/密码 鉴权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-37">
+          <mxGeometry x="-0.0226" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-40" target="Gd7f1BIweciEpXIwEWnX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-44" value="借钥匙/上传钥匙" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-42">
+          <mxGeometry x="-0.2043" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gd7f1BIweciEpXIwEWnX-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-46" value="归还钥匙" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gd7f1BIweciEpXIwEWnX-45">
+          <mxGeometry x="-0.0805" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gd7f1BIweciEpXIwEWnX-40" value="经纪人" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/property-agent-real-estate/237/property-agent-002-128.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="86" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
